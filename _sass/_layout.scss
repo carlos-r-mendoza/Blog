@@ -2,9 +2,11 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    /*border-top: 5px solid $grey-color-dark;*/
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    //added custom bg
+    background-color: $theme-grey-color-dark;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -16,10 +18,10 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
+    color: $theme-white-color;
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $theme-white-color;
     }
 }
 
@@ -32,13 +34,26 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $theme-white-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
         }
+    }
+
+    #blog-link-color {
+        margin-left: 10px;
+    }
+
+    #blog-link-color a:hover{
+        color: $theme-white-color !important;
+    }
+
+    #blog-link-background {
+        padding: 10px 15px;
+        background-color: $theme-orange-color;
     }
 
     @include media-query($on-palm) {
@@ -165,8 +180,29 @@
     padding: $spacing-unit 0;
 }
 
+#profile-img-caption {
+    clear: left;
+    width: 182px;
+    text-align: center;
+    padding-top: 3px;
+}
+
+#intro-section {
+}
+
+#section-divider {
+    width: 100%;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+}
+
+#intro-text {
+    padding-top: 34px;
+}
+
 .page-heading {
     font-size: 20px;
+    clear: left;
 }
 
 .post-list {
@@ -233,4 +269,15 @@
             font-size: 18px;
         }
     }
+}
+
+/**
+ * Images
+ */
+#profile-pic {
+    float: left;
+    border-radius: 50%;
+    height: 180px;
+    border: 1px $theme-grey-color-dark solid;
+    margin-right: 20px;
 }
