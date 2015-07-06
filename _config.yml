@@ -3,7 +3,7 @@ title: Carlos Codes Blog
 email: carlos.raiti.mendoza@gmail.com
 description: "Carlos R. Mendoza Blog, Software Developer, Software Engineer, Full Stack Developer, Web Developer, JavaScript, AngularJS, Node.js, MongoDB, Android App Development, Technology, Learning, Teaching, Creating."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://carlos-r-mendoza.github.io" # the base hostname & protocol for your site
 twitter_username: carlosrmendoza
 github_username:  carlos-r-mendoza
 

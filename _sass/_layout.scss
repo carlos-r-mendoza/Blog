@@ -180,29 +180,39 @@
     padding: $spacing-unit 0;
 }
 
+.img-wrapper {
+    float: left;
+}
+
 #profile-img-caption {
-    clear: left;
     width: 182px;
     text-align: center;
-    padding-top: 3px;
 }
 
 #intro-section {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: $grey-color-light;
 }
 
 #section-divider {
     width: 100%;
-    margin-bottom: 30px;
-    border-bottom: 1px solid;
+    border-bottom: 1px solid $grey-color-light;
 }
 
 #intro-text {
-    padding-top: 34px;
+    clear: right;
+    padding-top: 22px;
 }
 
 .page-heading {
     font-size: 20px;
     clear: left;
+    float: left;
+}
+
+.rss-subscribe {
+    float: right;
 }
 
 .post-list {
@@ -275,9 +285,9 @@
  * Images
  */
 #profile-pic {
-    float: left;
     border-radius: 50%;
     height: 180px;
     border: 1px $theme-grey-color-dark solid;
     margin-right: 20px;
+    margin-bottom: 5px;
 }
