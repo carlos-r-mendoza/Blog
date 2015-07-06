@@ -190,6 +190,7 @@
 }
 
 #intro-section {
+    margin-top: -30px;
     padding-top: 30px;
     padding-bottom: 10px;
     background-color: $grey-color-light;
@@ -197,6 +198,7 @@
 
 #section-divider {
     width: 100%;
+    margin-bottom: 30px;
     border-bottom: 1px solid $grey-color-light;
 }
 
@@ -216,6 +218,7 @@
 }
 
 .post-list {
+    clear: left;
     margin-left: 0;
     list-style: none;
 
