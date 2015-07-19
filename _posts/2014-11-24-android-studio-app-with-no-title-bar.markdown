@@ -8,7 +8,7 @@ Removing the title bar in Android Studio from an app is relatively simple.
 
 1. You can preview different Android themes by clicking on the <strong>AppTheme button</strong> in Design view when looking at layouts.
 
-[caption id="attachment_103" align="aligncenter" width="720"]<a href="https://carloscodes.files.wordpress.com/2014/11/appthemebutton1.png"><img class="wp-image-103 size-full" src="https://carloscodes.files.wordpress.com/2014/11/appthemebutton1.png" alt="Click on AppThemeButton" width="720" height="720" /></a> Click on AppThemeButton[/caption]
+<a href="https://carloscodes.files.wordpress.com/2014/11/appthemebutton1.png"><img class="wp-image-103 size-full" src="https://carloscodes.files.wordpress.com/2014/11/appthemebutton1.png" alt="Click on AppThemeButton" width="720" height="720" /></a> Click on AppThemeButton
 
 2. Click on the <strong>AppTheme button</strong>, go to <strong>All</strong>, choose <strong>NoTitleBar</strong>, and click <strong>OK</strong>. This provides you with a preview of what you app will look like without a title bar.
 
