@@ -4,15 +4,15 @@ title:  "Publishing an Android App on the Play Store"
 date:   2014-11-15 11:12:25
 categories: android
 ---
-[caption id="attachment_85" align="aligncenter" width="660"]<a href="https://carloscodes.files.wordpress.com/2014/11/screen-shot-2014-11-14-at-6-56-31-pm1.png"><img class="size-large wp-image-85" src="https://carloscodes.files.wordpress.com/2014/11/screen-shot-2014-11-14-at-6-56-31-pm1.png?w=660" alt="Publishing an App on the Play Store" width="660" height="357" /></a> Publishing an App on the Play Store[/caption]
+<a href="../img/publishing-an-android-app-on-the-play-store/play-store-publishing-console.png"><img class="size-large wp-image-85" src="../img/publishing-an-android-app-on-the-play-store/play-store-publishing-console.png" alt="Publishing an App on the Play Store" width="660" height="357" /></a> Publishing an App on the Play Store
 
 I recently published my first Android App on Google's Play store, which you can find for free <a title="Amusing Facts Android App" href="https://play.google.com/store/apps/details?id=carlosrmendoza.com.amusingfacts" target="_blank">here</a>. Below I've listed the steps I took to publish the app. Keep in mind that these steps are for publishing a <strong>free app</strong> on the Play store. You can find out information on monetizing your app <a title="Monetize Android App Information Link" href="http://developer.android.com/distribute/monetize/index.html" target="_blank">here</a>.
 <p style="text-align:center;"><strong>Steps to Publishing an Android App</strong></p>
 
 
-[caption id="attachment_87" align="aligncenter" width="300" class=" "]<a href="https://carloscodes.files.wordpress.com/2014/11/screen-shot-2014-11-14-at-7-03-46-pm.png"><img class="size-medium wp-image-87" src="https://carloscodes.files.wordpress.com/2014/11/screen-shot-2014-11-14-at-7-03-46-pm.png?w=300" alt="Progard Tool" width="300" height="146" /></a> Make runProguard 'true'[/caption]
+<a href="../img/publishing-an-android-app-on-the-play-store/android-studio-runproguard-true.png"><img class="size-medium wp-image-87" src="../img/publishing-an-android-app-on-the-play-store/android-studio-runproguard-true.png" alt="Progard Tool" width="300" height="146" /></a> Make runProguard 'true'
 
-[caption id="attachment_88" align="aligncenter" width="300" class=" "]<a href="https://carloscodes.files.wordpress.com/2014/11/screen-shot-2014-11-14-at-7-06-42-pm.png"><img class="wp-image-88 size-medium" src="https://carloscodes.files.wordpress.com/2014/11/screen-shot-2014-11-14-at-7-06-42-pm.png?w=300" alt="proguard-rules.pro file" width="300" height="114" /></a> proguard-rules.pro file[/caption]
+<a href="../img/publishing-an-android-app-on-the-play-store/android-studio-proguard-rules-pro-file.png"><img class="wp-image-88 size-medium" src="../img/publishing-an-android-app-on-the-play-store/android-studio-proguard-rules-pro-file.png" alt="proguard-rules.pro file" width="300" height="114" /></a> proguard-rules.pro file
 <ol>
 	<li><strong>In Android Studio deactivate logging and disable the debugging option before you build your application for release</strong> (more information: <a title="Deactivate logging and disable debugging " href="http://developer.android.com/tools/publishing/preparing.html" target="_blank">http://developer.android.com/tools/publishing/preparing.html</a>)
 <ul>
