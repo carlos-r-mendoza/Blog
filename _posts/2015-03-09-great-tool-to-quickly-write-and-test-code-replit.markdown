@@ -3,6 +3,8 @@ layout: post
 title:  "Great Tool to Quickly Write and Test Code - repl.it"
 date:   2015-03-09 11:12:25
 categories: tool
+author: Carlos R. Mendoza
+<!-- permalink: -->
 ---
 When I quickly want to write and test code, I often use <strong><a title="repl.it" href="http://repl.it/" target="_blank">repl.it</a></strong>, which is an online environment where user input (code) is evaluated. This great tool allows code to be written and evaluated on one screen, where the left-hand side is designated for code input and the right-hand side returns the results of the code. It supports JavaScript, Python, Ruby, Java, and many more programming languages!
 

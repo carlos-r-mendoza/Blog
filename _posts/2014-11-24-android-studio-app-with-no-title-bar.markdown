@@ -2,7 +2,9 @@
 layout: post
 title:  "Android Studio: App With No Title Bar"
 date:   2014-11-24 11:12:25
-categories: android
+categories: android development
+author: Carlos R. Mendoza
+<!-- permalink: -->
 ---
 Removing the title bar in Android Studio from an app is relatively simple.
 

@@ -3,6 +3,8 @@ layout: post
 title:  "How to Add a Browser Tab Icon to Your Website"
 date:   2014-11-12 11:12:25
 categories: web
+author: Carlos R. Mendoza
+<!-- permalink: -->
 ---
 <a href="../img/how-to-add-a-browser-tab-icon-to-your-website/browser-tab-icon.png"><img class="size-medium wp-image-40" src="../img/how-to-add-a-browser-tab-icon-to-your-website/browser-tab-icon.png?w=300" alt="Browser Tab Icon Example" width="300" height="36" /></a> Browser Tab Icon Example
 

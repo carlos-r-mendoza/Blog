@@ -3,7 +3,10 @@ layout: post
 title:  "Hello World!"
 date:   2014-11-01 11:12:25
 categories: journal
+author: Carlos R. Mendoza
+<!-- permalink: -->
 ---
+
 A new journey begins…
 
 Technology has always captivated me. As a young kid, I used to take apart electronic toys and with a pair of wires would connect the toy’s motor to a D battery to get it running. I created a couple of interesting makeshift toys this way. I've always had this intrinsic curiosity to find out how things actually work and have never been satisfied with knowing that something “just works” - I need to know <strong>why it works</strong>.
