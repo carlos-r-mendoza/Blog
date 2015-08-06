@@ -3,6 +3,8 @@ layout: post
 title:  "Publishing an Android App on the Play Store"
 date:   2014-11-15 11:12:25
 categories: android
+author: Carlos R. Mendoza
+<!-- permalink: -->
 ---
 <a href="../img/publishing-an-android-app-on-the-play-store/play-store-publishing-console.png"><img class="size-large wp-image-85" src="../img/publishing-an-android-app-on-the-play-store/play-store-publishing-console.png" alt="Publishing an App on the Play Store" width="660" height="357" /></a> Publishing an App on the Play Store
 

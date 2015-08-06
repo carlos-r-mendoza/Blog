@@ -3,7 +3,10 @@ layout: post
 title:  "HTTP Status Codes"
 date:   2015-04-17 11:12:25
 categories: tool
+author: Carlos R. Mendoza
+<!-- permalink: -->
 ---
+
 HTTP is the protocol for transferring files across the World Wide Web, outlining how information is formatted and transmitted and the actions that browsers and web servers should take in response to certain actions.
 
 Below are some of the most common Hypertext Transfer Protocol (HTTP) response status codes, which are responses provided by the web server and are often helpful when trying to identify the reason behind a problem.
