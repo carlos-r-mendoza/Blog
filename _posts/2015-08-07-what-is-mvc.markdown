@@ -30,7 +30,7 @@ The Controller contains the necessary logic to connect the Model and the View. T
 # So, How Does MVC Work?
 
 <br>
-<p style="font-size: 36px; text-align: center;">Model <-----> Controller <-----> View</p>
+<p>Model <-----> Controller <-----> View</p>
 <br>
 
 <p>TESTING</p>
