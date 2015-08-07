@@ -149,6 +149,10 @@ pre {
   .icon-linkedin path {
     fill: #828282; }
 
+#MVC {
+  font-size: 36px;
+  text-align: center; }
+
 /**
  * Site header
  */

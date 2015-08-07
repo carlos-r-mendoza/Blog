@@ -5,8 +5,8 @@
     <description>Carlos R. Mendoza Blog, Software Developer, Software Engineer, Full Stack Developer, Web Developer, JavaScript, AngularJS, Node.js, MongoDB, Android App Development, Technology, Learning, Teaching, Creating.</description>
     <link>http://carlos-r-mendoza.github.io/</link>
     <atom:link href="http://carlos-r-mendoza.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Aug 2015 14:53:06 -0400</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2015 14:53:06 -0400</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2015 15:13:02 -0400</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2015 15:13:02 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -32,8 +32,9 @@
 &lt;p&gt;The Controller contains the necessary logic to connect the Model and the View. Think of it as the messenger between the Model and the View. It contains the logic necessary to make information received from the Model presentable in the View. On the other hand, when there is user input on the View, the Controller sends commands to the Model to retrieve or modify information.&lt;/p&gt;
 
 &lt;h1 id=&quot;so-how-does-mvc-work&quot;&gt;So, How Does MVC Work?&lt;/h1&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-size: 36px; text-align: center;&quot;&gt;Model &amp;lt;-----&amp;gt; Controller &amp;lt;-----&amp;gt; View&lt;/p&gt;
+&lt;p id=&quot;MVC&quot;&gt;Model &amp;lt;-----&amp;gt; Controller &amp;lt;-----&amp;gt; View&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The simple diagram above displays of how I like to think of MVC. The Model and the View never directly talk to one another and communication between these two is handled by the Controller.&lt;/p&gt;
@@ -47,7 +48,9 @@
         <guid isPermaLink="true">http://carlos-r-mendoza.github.io/what-is-mvc</guid>
         
         
-        <category>journal</category>
+        <category>model-view-controller</category>
+        
+        <category>mvc</category>
         
       </item>
     

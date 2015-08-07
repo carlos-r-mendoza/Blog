@@ -30,10 +30,8 @@ The Controller contains the necessary logic to connect the Model and the View. T
 # So, How Does MVC Work?
 
 <br>
-<p>Model <-----> Controller <-----> View</p>
+<p id="MVC">Model <-----> Controller <-----> View</p>
 <br>
-
-<p>TESTING</p>
 
 The simple diagram above displays of how I like to think of MVC. The Model and the View never directly talk to one another and communication between these two is handled by the Controller.
 
