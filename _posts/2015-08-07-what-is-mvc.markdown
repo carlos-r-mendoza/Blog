@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Model-View-Controller (MVC)?"
 date:   2015-08-07 14:45:00
-categories: journal
+categories: Model-View-Controller MVC
 author: Carlos R. Mendoza
 <!-- permalink: -->
 ---
