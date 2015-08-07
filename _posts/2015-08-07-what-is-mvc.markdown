@@ -28,9 +28,12 @@ The View is a visual representation of the Model. It is the presentation layer, 
 The Controller contains the necessary logic to connect the Model and the View. Think of it as the messenger between the Model and the View. It contains the logic necessary to make information received from the Model presentable in the View. On the other hand, when there is user input on the View, the Controller sends commands to the Model to retrieve or modify information. 
 
 # So, How Does MVC Work?
+
 <br>
 <p style="font-size: 36px; text-align: center;">Model <-----> Controller <-----> View</p>
 <br>
+
+<p>TESTING</p>
 
 The simple diagram above displays of how I like to think of MVC. The Model and the View never directly talk to one another and communication between these two is handled by the Controller.
 
