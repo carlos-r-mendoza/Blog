@@ -5,15 +5,32 @@
     <h2 class="footer-heading">Carlos R. Mendoza | Software Developer</h2>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
+<!--       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
-      </div>
+      </div> -->
 
-      <div class="footer-col  footer-col-1">
+      <div class="footer-col">
         <ul class="social-media-list">
+          <li>
+            <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+              <span class="icon-linkedin">
+                <img src="../img/social/rss-icon.png" />
+              </span>
+              <span>
+                RSS feed
+              </span>
+          </li>
+          <li>
+            <a href="mailto:{{ site.email }}">
+              <span class="icon-linkedin">
+                <img src="../img/social/email-icon.png" />
+              </span>
+              <span>email</span>
+            </a>
+          </li>
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">

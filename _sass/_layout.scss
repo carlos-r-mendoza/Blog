@@ -5,7 +5,7 @@
 .site-header {
     /*border-top: 5px solid $grey-color-dark;*/
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 64px;
     //added custom bg
     background-color: $theme-grey-color-dark;
 
@@ -15,7 +15,7 @@
 
 .site-title {
     font-size: 26px;
-    line-height: 56px;
+    line-height: 64px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -28,7 +28,7 @@
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 64px;
 
     .menu-icon {
         display: none;
@@ -120,7 +120,9 @@
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: 15px;
+    color: $grey-color;
+    text-align: center;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -131,14 +133,23 @@
 }
 
 .footer-col-wrapper {
+
+    display: none;
     font-size: 15px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        display: block;
+    }
+
 }
 
 .footer-col {
     float: left;
+    width: 100%;
+    text-align: center;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
@@ -216,13 +227,18 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 24px;
     clear: left;
     float: left;
 }
 
-.rss-subscribe {
+.icons-section {
     float: right;
+
+    @include media-query($on-laptop) {
+        display: none;
+    }
+
 }
 
 .post-list {
