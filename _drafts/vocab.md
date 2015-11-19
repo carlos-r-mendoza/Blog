@@ -28,5 +28,21 @@ Enumeration - is a complete, ordered listing of all the items in a collection.
 Recursion - 
 Invocations
 Expression
+Instance
+Static
+Exception
+Augmentation
+Scope
+Asynchronous
+Synchronous
+Memory Leak
+Promises
+Absraction
+Module
+Cascade
+Currying
+Memoization
+Singleton
+Casting
 
 Meta-Data - data about data.
