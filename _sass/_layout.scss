@@ -10,7 +10,8 @@
     background-color: $theme-grey-color-dark;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    width: 100%;
 }
 
 .site-title {
@@ -86,9 +87,10 @@
         }
 
         .trigger {
-            clear: both;
+            /*clear: both;*/
+            padding-top: 50px;
+            width: 100%;
             display: none;
-            width: 200px;
             background-color: #2A2A2A;
         }
 
@@ -110,7 +112,11 @@
 }
 
 
-
+@include media-query($on-palm) {
+    .site-nav:hover {
+        width: 90%;
+    }
+}
 /**
  * Site footer
  */
@@ -209,7 +215,7 @@
 }
 
 #intro-section {
-    margin-top: -30px;
+    margin-top: 30px;
     padding-top: 30px;
     padding-bottom: 10px;
     background-color: $grey-color-light;
@@ -267,6 +273,7 @@
  * Posts
  */
 .post-header {
+    margin-top: 80px;
     margin-bottom: $spacing-unit;
 }
 

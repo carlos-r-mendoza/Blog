@@ -25,8 +25,50 @@ Instropection -  the ability of a program to examine the type of properties of a
 
 Enumeration - is a complete, ordered listing of all the items in a collection.
 
+Polyfill - a browser fallback, made in JavaScript, that allows functionality you expect to work on modern browsers to work in older browsers.
+
+Some code that allows you to have some sepceifct functionality that you expect in current or "modern" browsers to also work in other browsers that do not have the support for that functionality built in.(http://www.programmerinterview.com/index.php/html5/html5-polyfill/)
+
+is downloadable code which provides facilities that are not built into a web browser. It implements technology that a developer expects the browser to provide natively, providing a more uniform API landscape. For example, many features of HTML5 are not supported by versions of Internet Explorer older than version 8 or 9, but can be used by web pages if those pages install a polyfill.
+
+Shim
 Recursion - 
 Invocations
 Expression
+Instance
+Static
+Exception
+Augmentation
+Scope
+Asynchronous
+Synchronous
+Memory Leak
+Promises
+Absraction
+Abstract Classes
+Module
+Cascade
+Currying
+Memoization
+Singleton
+Casting
+Concurrency
+Debugging
+IDE
+Compiler
+Runtime
+Threads	
+Polling
+Blocking
+Non-Blocking
+Mixin
+Function
+Method
+Property
+Array
+String
+Data Types
+Data Validation
+Hash (Sorting Algorithms)
 
 Meta-Data - data about data.
