@@ -70,5 +70,28 @@ String
 Data Types
 Data Validation
 Hash (Sorting Algorithms)
+Encapsulation
+Threading
+Big Data
+Primitive Variable
+API
+REST
+CRUD
+SAML
+AJAX
+JSON
+XML
+Permutation
+Handlers
+Aoath
+Scrum 
+Agile
+Waterfall
+polymorphism
+Garbage Collection
+Closures
+MVC
+Separations of Concern
+Version Control System (VCS)
 
 Meta-Data - data about data.
