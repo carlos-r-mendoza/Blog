@@ -17,14 +17,14 @@ On the other hand, for files such as .DS_Store, placing them in a global .gitign
 
 Below are steps to take to create a global .gitignore on your computer.
 
-1. **Check whether a global .gitignore file exists**
+1. **Check whether a global .gitignore file exists.**
 
 	`$ git config --get core.excludesfile`
 
 	*If the commands does **not return** anything, move to step 2.*   
 	*If the command **returns** a filename, skip to step 4.*
 
-2. 	**Create a new file that will serve as a global .gitignore**
+2. 	**Create a new file that will serve as a global .gitignore.**
 	
 	`$ touch ~/.gitignore_global`
 
@@ -33,11 +33,11 @@ Below are steps to take to create a global .gitignore on your computer.
 
 	*__Note:__ `~` is shorthand for your home directory. In OS X, this is equivelant to `/Users/accountname`.*
 
-3. **Set up Git's `core.excludesfile` configuration to use the global .gitignore file just created**
+3. **Set up Git's `core.excludesfile` configuration to use the global .gitignore file just created.**
 	
 	`git config --global core.excludesfile ~/.gitignore_global`
 
-4. **Open the global .gitignore file**
+4. **Open the global .gitignore file.**
 
 	`$ open ~/.gitignore_global`
 
