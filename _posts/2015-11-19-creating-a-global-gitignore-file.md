@@ -7,7 +7,9 @@ author: Carlos R. Mendoza
 <!-- permalink: -->
 ---
 
-Ever had directories or files added to Git that you did not intend? If you are using a repository hosting service, such as GitHub, these files can be accessed by anyone in the world with an internet connection!
+*Last Update on Nov 23, 2015.*
+
+Ever add directories or files to Git that you did not intend to track? If you are using a repository hosting service, such as GitHub, these files can be accessed by anyone in the world with an Internet connection!
 
 Often, these files can have sensitive information - passwords, user data, etc. - or, on the other hand, can simply contain settings files created by the operating system (e.g. [.DS_Store](https://en.wikipedia.org/wiki/.DS_Store)) or text editor (e.g. [.idea](https://www.jetbrains.com/idea/help/project-and-ide-settings.html?search=.idea) in Webstorm) you are using.
 
@@ -15,7 +17,7 @@ Yes, you can create a .gitignore that is local to your repository and add the di
 
 On the other hand, for files such as .DS_Store, placing them in a global .gitignore might be appropriate so that they are excluded from Git in any subsequent repositories created.
 
-Below are steps to take to create a global .gitignore on your computer.
+Below are steps to take to create a global .gitignore using your computer's terminal.
 
 1. **Check whether a global .gitignore file exists.**
 
