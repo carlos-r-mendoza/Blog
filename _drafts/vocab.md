@@ -15,6 +15,8 @@ Load - process of writing the data into the target base.
 
 Patch - is a piece of software designed to update a computer program or its supporting data, to fix or improve it. 
 
+Data Validation - the process of ensuring a program operates on clean, correct and useful data. It uses routines, often called "validation rules" "validation constraints" or "check routines", that check for correctness, meaningfulness, and security of data that are input to the system. The rules may be implemented through the automated facilities of a data dictionary, or by the inclusion of explicit application program validation logic.
+
 Immutable Object - is an object whose state cannot be modified after it is creted.
 
 Delegation - in JavaScript, if a property called on an Object does not exist directly on the Object, then it goes to the Object's prototype until finally reaching Object.prototype. 
@@ -93,5 +95,13 @@ Closures
 MVC
 Separations of Concern
 Version Control System (VCS)
+Serialization
+Deserialization
+Authentication
+Authorization
+Test Driven Development
+Unit Tests
+Integration Tests
+Sandbox
 
 Meta-Data - data about data.
