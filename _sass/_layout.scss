@@ -7,11 +7,12 @@
     border-bottom: 1px solid $grey-color-light;
     min-height: 64px;
     //added custom bg
-    background-color: $theme-grey-color-dark;
+    background-color: $theme-white-color;
 
     // Positioning context for the mobile navigation icon
     position: fixed;
     width: 100%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
 .site-title {
@@ -23,7 +24,7 @@
     color: $theme-white-color;
     &,
     &:visited {
-        color: $theme-white-color;
+        color: $theme-grey-color-dark;
     }
 }
 
@@ -36,7 +37,7 @@
     }
 
     .page-link {
-        color: $theme-white-color;
+        color: $theme-grey-color-dark;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -218,7 +219,7 @@
     margin-top: 30px;
     padding-top: 30px;
     padding-bottom: 10px;
-    background-color: $grey-color-light;
+    background-color: $theme-grey-color-dark;
 }
 
 #section-divider {
@@ -230,6 +231,7 @@
 #intro-text {
     padding: 20px 0px;
     font-size: 18px;
+    color: $theme-white-color;
 }
 
 .page-heading {
