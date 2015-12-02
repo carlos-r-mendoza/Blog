@@ -103,5 +103,47 @@ Test Driven Development
 Unit Tests
 Integration Tests
 Sandbox
-
+Boolean Type
+Encoding - 
+1. the process of putting a sequence of characters into a special format for transmission or storage purposes.
+2. used to reference the process of analog-to-digital conversion, and can be used in the context of any type of data such as text, images, audio, video, or multimedia.
 Meta-Data - data about data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identifiers - a name given to a value that serves as a label. For instance, in JavaScript, variable and function names serve as identifiers.
+
+
+
+Constant - is an identifier with a value that cannot be altered while a program executes. This is opposite to the value of a variable, which can be altered during program execution.
+
+Enumeration Type (also called enumeration or enum) - a data type consisting of a set of identifiers that behave as constants in a language.
