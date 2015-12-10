@@ -1,13 +1,14 @@
+
 In JavaScript, context is everything.
 
 JavaScript has a special keyword to grant access to a specific context.
 
-The "this" keyword can be uses to access values, methods, and objects on a context specific basis. 
+The "this" keyword can be uses to access values, methods, and objects on a context specific basis.
 
-"This" changes where it is used. 
+"This" changes where it is used.
 
 
-Different application context. 
+Different application context.
 
 4 Ways that "this" takes a value
 1. In normal function calls
