@@ -1,5 +1,6 @@
 # Computer Science Vocab
 
+Isomorphic
 Enumeration
 Inheritance
 Object Oriented Programming
