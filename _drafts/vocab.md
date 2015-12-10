@@ -108,7 +108,9 @@ Boolean Type
 Encoding - 
 1. the process of putting a sequence of characters into a special format for transmission or storage purposes.
 2. used to reference the process of analog-to-digital conversion, and can be used in the context of any type of data such as text, images, audio, video, or multimedia.
+3. URL encoding converts characters into a format that can be transmitted over the Internet.
 Meta-Data - data about data.
+Plugin
 
 
 

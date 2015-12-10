@@ -11,7 +11,7 @@ Recently I started trying out [Visual Studio Code](https://code.visualstudio.com
 
 Anyways, let's get to the point.
 
-To configure your machine to open projects in Visual Studio Code from the terminal using the `code .`, follow the steps below.
+To configure your machine to open projects in Visual Studio Code from the terminal using `code .`, follow the steps below.
 
 1. Open your terminal, and enter `open ~/.bash_profile`. If the file doesn't exist, create it -- `touch ~/.bash_profile` -- and procceed to open it. *<font color="red">Note</font>*: if you are using **zsh**, then skip to step 2 and add the line of code found there to `~/.zshrc` instead.
 2. In .bash_profile, add the following: `code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}` and save.
