@@ -11,7 +11,7 @@ author: Carlos R. Mendoza
 
 I will be adding regularly to this terms list. My goal is to add one word per day.
 
-**Algorithm** - a set of step-by-step instructions to solve a problem.
+<a name="compiler"></a>**Algorithm** - a set of step-by-step instructions to solve a problem.
 
 **Compiler** - a computer program or sets of programs that transforms [source code](#source code) into [machine language](#machine language) that a computer understands.
 
