@@ -39,11 +39,12 @@
     .page-link {
         color: $theme-grey-color-dark;
         line-height: $base-line-height;
+        margin-left: 20px;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
+        // &:not(:first-child) {
+        //     margin-left: 20px;
+        // }
     }
 
     #blog-link-color {
@@ -56,6 +57,7 @@
 
     #blog-link-background {
         padding: 10px 15px;
+        margin-left: 0px;
         background-color: $theme-orange-color;
     }
 
@@ -63,10 +65,11 @@
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        background-color: $theme-grey-color-dark;
+        // border: 1px solid $theme-grey-color-dark;
         border-radius: 5px;
-        text-align: right;
+        text-align: left;
+        font-weight: 600;
 
         .menu-icon {
             display: block;
@@ -82,7 +85,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: $theme-white-color;
                 }
             }
         }
@@ -92,12 +95,12 @@
             padding-top: 50px;
             width: 100%;
             display: none;
-            background-color: #2A2A2A;
+            background-color: $theme-white-color;
         }
 
         &:hover .trigger {
             display: block;
-            padding-bottom: 5px;
+            // padding-bottom: 5px;
         }
 
         .page-link {
@@ -107,6 +110,10 @@
 
         #blog-link-color {
             margin-left: 0px;
+        }
+        
+        #blog-link-background {
+            padding-left: 30px;
         }
 
     }
