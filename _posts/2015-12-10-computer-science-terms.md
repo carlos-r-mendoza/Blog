@@ -51,4 +51,6 @@ I will be adding regularly to this terms list. My goal is to add one word per da
   
 <a name="source code"></a>**Polyfill** - code (or plugin) that can be added to a web application that allows functionality expected to work natively on a browser but that might not have yet been added to the browser. Polyfills allow for more consistency across browser APIs.  
 
+**Projection Queries** - the queries to a Datastore that specify properties of an entity to be returned. This lowers the amount of data being retrieved and returned in the response.
+
 **Source Code** - set of computed instructions written in a human readable ([high-level](#high-level programming language)) computer language.
