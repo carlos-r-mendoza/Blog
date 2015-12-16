@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recap of JS Open Day NYC 2015"
-date:   2015-12-15 09:30:00
+date:   2015-12-15 21:30:00
 categories: computer science
 author: Carlos R. Mendoza
 <!-- permalink: -->
