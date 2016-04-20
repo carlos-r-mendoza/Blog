@@ -21,7 +21,7 @@ I will be adding regularly to this terms list. My goal is to add one word per da
   
 **Delegation** - an object relying on another object to provide a specific set of functionalities. This feature is often found in prototype-based languages such as JavaScript (prototypes).  
 
-**Encapsulation** - specific components (data and methods) within an object/class that cannot be directly accessed or manipulated outside of that object/class. It is often the case across programming languages that the encapsulated components can only be accessed and manipulated by other methods within the object/class.
+**Encapsulation** - A mechanism to prevent direct access to or manipulation of specific components belonging to an object/class, such as variables and methods, outside of that object/class. Typically, in programming languages, only methods belonging to the object/class can directly access the encapsulated components of that object/class.
 
 **Enumeration Type** (also called enumeration or enum) - a data type consisting of a set of [identifier](#identifiers) that behave as constants in a language.  
 
