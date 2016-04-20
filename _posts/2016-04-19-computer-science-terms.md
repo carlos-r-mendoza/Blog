@@ -7,7 +7,7 @@ author: Carlos R. Mendoza
 <!-- permalink: -->
 ---
 
-*Last Update on Dec 14, 2015.*
+*Last Update on April 19, 2016.*
 
 I will be adding regularly to this terms list. My goal is to add one word per day.  
 
@@ -20,6 +20,8 @@ I will be adding regularly to this terms list. My goal is to add one word per da
 **Data Validation** - the process of checking for correctness, meaningfulness, and security of data to be inputted to the system to ensure a program operates with clean, correct, and useful data. Validation can be implemented by adding logic to an application or through a data dictionary.  
   
 **Delegation** - an object relying on another object to provide a specific set of functionalities. This feature is often found in prototype-based languages such as JavaScript (prototypes).  
+
+**Encapsulation** - specific components (data and methods) within an object/class that cannot be directly accessed or manipulated outside of that object/class. It is often the case across programming languages that the encapsulated components can only be accessed and manipulated by other methods within the object/class.
 
 **Enumeration Type** (also called enumeration or enum) - a data type consisting of a set of [identifier](#identifiers) that behave as constants in a language.  
 
