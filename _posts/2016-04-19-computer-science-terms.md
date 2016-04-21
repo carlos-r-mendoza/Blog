@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Computer Science Terms"
-date:   2016-04-19 11:30:00
+date:   2016-04-20 11:30:00
 categories: computer science
 author: Carlos R. Mendoza
 <!-- permalink: -->
 ---
 
-*Last Update on April 19, 2016.*
+*Last Update on April 20, 2016.*
 
 I will be adding regularly to this terms list. My goal is to add one word per day.  
 
