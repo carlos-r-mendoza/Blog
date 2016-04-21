@@ -31,9 +31,9 @@ I will be adding regularly to this terms list. My goal is to add one word per da
 * **Transforms** - the process of converting data to a format that is storable in the database or good for querying.
 * **Loads** - the process of writing the data into the database.
 	  
-**Identifiers** - a name given to a value that serves as a label. For instance, in JavaScript, variable and function names serve as identifiers.  
+<a name="immutable"></a>**Identifiers** - a name given to a value that serves as a label. For instance, in JavaScript, variable and function names serve as identifiers.  
   
-**Immutable Object** - an object whose state cannot be modified after it is created.  
+**Immutable** - a data type whose state cannot be modified after it is created. This is in contrast to [mutable](#mutable) data types, whose states can be altered after creation.
 
 **Intermediate Language** - often refers to a language used by [high-level programming languages](#high-level-programming-language) which that do not output to [machine code](#machine-language) directly. The [source code](#source-code) is outputted to the intermediate language that is then compiled to machine code. Although not designed to be used as an intermediate language, other programming languages have frequently used C as an intermediate language because it has [compilers](#compiler) for many processors and operating systems.  
 
@@ -47,7 +47,9 @@ I will be adding regularly to this terms list. My goal is to add one word per da
 
 **Meta-Data** - data about data.  
   
-**Mixin** - a class in object-oriented programming that contains a combination of methods from other classes.  
+<a name="mutable"></a>**Mixin** - a class in object-oriented programming that contains a combination of methods from other classes.
+
+**Mutable** - a data type whose state can be modified after it is created. This is in contrast to [immutable](#immutable) data types, whose states cannot be altered after creation.
   
 **Patch** - a piece of software to fix or improve a program or its supporting data.  
   
