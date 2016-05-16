@@ -7,9 +7,7 @@ author: Carlos R. Mendoza
 <!-- permalink: -->
 ---
 
-*Last Update on April 20, 2016.*
-
-I will be adding regularly to this terms list. My goal is to add one word per day.  
+*Last Update on April 15, 2016.*
 
 <a name="compiler"></a>**Algorithm** - a set of step-by-step instructions to solve a problem.  
 
@@ -56,5 +54,7 @@ I will be adding regularly to this terms list. My goal is to add one word per da
 <a name="projection-queries"></a>**Polyfill** - code (or plugin) that can be added to a web application that allows functionality expected to work natively on a browser but that might not have yet been added to the browser. Polyfills allow for more consistency across browser APIs.  
 
 <a name="source-code"></a>**Projection Queries** - the queries to a Datastore that specify properties of an entity to be returned. This lowers the amount of data being retrieved and returned in the response.  
+
+**Polymorphism** 
 
 **Source Code** - set of computed instructions written in a human readable ([high-level](#high-level-programming-language)) computer language.
