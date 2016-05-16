@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Computer Science Terms"
-date:   2016-04-20 11:30:00
+date:   2016-05-2015 10:00:00
 categories: computer science
 author: Carlos R. Mendoza
 <!-- permalink: -->
 ---
 
-*Last Update on April 15, 2016.*
+*Last Update on May 15, 2016.*
 
 <a name="compiler"></a>**Algorithm** - a set of step-by-step instructions to solve a problem.  
 
@@ -55,6 +55,6 @@ author: Carlos R. Mendoza
 
 <a name="source-code"></a>**Projection Queries** - the queries to a Datastore that specify properties of an entity to be returned. This lowers the amount of data being retrieved and returned in the response.  
 
-**Polymorphism** 
+**Polymorphism** - in object oriented programming (OOP), the practice of objects being able to share behavior is key. Polymorphism allows a child object to be able to override a behavior of a parent object while still maintaining the same interface. 
 
 **Source Code** - set of computed instructions written in a human readable ([high-level](#high-level-programming-language)) computer language.
