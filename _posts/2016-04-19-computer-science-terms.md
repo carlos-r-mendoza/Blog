@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computer Science Terms"
-date:   2016-05-2015 10:00:00
+date:   2016-05-15 10:00:00
 categories: computer science
 author: Carlos R. Mendoza
 <!-- permalink: -->
