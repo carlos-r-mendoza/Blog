@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Including TypeScript Definitions in a non-TypeScript Project Using Visual Studio Code (VSC)"
+title:  "Including TypeScript Definitions in a non-TypeScript Project in Visual Studio Code (VSC)"
 date:   2016-08-14 10:30:00
 categories: typescript, visual studio code
 author: Carlos R. Mendoza
