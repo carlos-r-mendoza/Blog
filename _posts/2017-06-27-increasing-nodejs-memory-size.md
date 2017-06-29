@@ -2,7 +2,7 @@
 layout: post
 title:  "Increasing Memory/Heap Size of Node.js"
 date:   2017-06-27 11:20:00
-categories: typescript, visual studio code
+categories: nodejs, node, javascript
 author: Carlos R. Mendoza
 <!-- permalink: -->
 ---
